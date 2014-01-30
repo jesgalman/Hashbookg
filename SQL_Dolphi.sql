@@ -1,0 +1,25 @@
+CREATE DATABASE Dolphi;
+USE Dolphi;
+
+CREATE TABLE Users
+(
+u_id INT NOT NULL AUTO_INCREMENT,
+PRIMARY KEY (u_id)
+);
+
+CREATE TABLE Tags
+(
+t_id INT NOT NULL AUTO_INCREMENT,
+tag VARCHAR(140) NOT NULL,
+PRIMARY KEY (t_id)
+);
+
+CREATE TABLE Users_Tags
+(
+u_id INT,
+t_id INT,
+rating INT(2),
+PRIMARY KEY (u_id, t_id),
+FOREIGN KEY (t_id) REFERENCES Tags(t_id),
+FOREIGN KEY (u_id) REFERENCES Users(u_id)
+);

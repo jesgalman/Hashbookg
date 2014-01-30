@@ -1,0 +1,28 @@
+<html>
+<head>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Hasher</title>
+	<script src="facebooklogin.js"></script>
+</head>
+<body>
+	<div id="fb-root"></div>
+		<!--
+  Below we include the Login Button social plugin. This button uses the JavaScript SDK to
+  present a graphical Login button that triggers the FB.login() function when clicked.
+
+  Learn more about options for the login button plugin:
+  /docs/reference/plugins/login/ -->
+
+<fb:login-button scope="read_stream" show-faces="true" width="200" max-rows="1"></fb:login-button>
+
+<span id="UserObject"><a class="fb_button fb_button_medium"><span class="fb_button_text">Get User Object</span></a></span>
+<span id="fbLogout"><a class="fb_button fb_button_medium"><span class="fb_button_text">Logout</span></a></span>
+<div id="postStream">Content: </div>
+      <footer>
+        <p>&copy; Facebook Hackathon 2013</p>
+      </footer>
+</body>
+
+
+
+</html>

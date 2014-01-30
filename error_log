@@ -1,0 +1,243 @@
+[05-Oct-2013 07:43:36 America/Chicago] PHP Warning:  mysqli_connect() [<a href='function.mysqli-connect'>function.mysqli-connect</a>]: (28000/1045): Access denied for user 'doscerod_hacker'@'r10-dallas.webserversystems.com' (using password: YES) in /home/doscerod/hashbook/save_tag.php on line 5
+[05-Oct-2013 07:43:36 America/Chicago] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/doscerod/hashbook/save_tag.php on line 12
+[05-Oct-2013 07:43:36 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/doscerod/hashbook/save_tag.php on line 13
+[05-Oct-2013 07:43:36 America/Chicago] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/doscerod/hashbook/save_tag.php on line 16
+[05-Oct-2013 07:43:36 America/Chicago] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, boolean given in /home/doscerod/hashbook/save_tag.php on line 18
+[05-Oct-2013 07:43:36 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/doscerod/hashbook/save_tag.php:5) in /home/doscerod/hashbook/save_tag.php on line 21
+[05-Oct-2013 09:55:17 America/Chicago] PHP Parse error:  syntax error, unexpected T_STRING in /home/doscerod/hashbook/save_tag.php on line 21
+[05-Oct-2013 09:56:02 America/Chicago] PHP Parse error:  syntax error, unexpected T_STRING in /home/doscerod/hashbook/save_tag.php on line 21
+[05-Oct-2013 10:50:02 America/Chicago] PHP Parse error:  syntax error, unexpected T_STRING in /home/doscerod/hashbook/save_tag.php on line 21
+[05-Oct-2013 10:51:53 America/Chicago] PHP Parse error:  syntax error, unexpected T_STRING in /home/doscerod/hashbook/save_tag.php on line 20
+[05-Oct-2013 10:51:55 America/Chicago] PHP Parse error:  syntax error, unexpected T_STRING in /home/doscerod/hashbook/save_tag.php on line 20
+[05-Oct-2013 10:51:55 America/Chicago] PHP Parse error:  syntax error, unexpected T_STRING in /home/doscerod/hashbook/save_tag.php on line 20
+[05-Oct-2013 10:51:56 America/Chicago] PHP Parse error:  syntax error, unexpected T_STRING in /home/doscerod/hashbook/save_tag.php on line 20
+[05-Oct-2013 10:51:56 America/Chicago] PHP Parse error:  syntax error, unexpected T_STRING in /home/doscerod/hashbook/save_tag.php on line 20
+[05-Oct-2013 10:51:56 America/Chicago] PHP Parse error:  syntax error, unexpected T_STRING in /home/doscerod/hashbook/save_tag.php on line 20
+[05-Oct-2013 10:51:56 America/Chicago] PHP Parse error:  syntax error, unexpected T_STRING in /home/doscerod/hashbook/save_tag.php on line 20
+[05-Oct-2013 10:51:57 America/Chicago] PHP Parse error:  syntax error, unexpected T_STRING in /home/doscerod/hashbook/save_tag.php on line 20
+[05-Oct-2013 10:51:57 America/Chicago] PHP Parse error:  syntax error, unexpected T_STRING in /home/doscerod/hashbook/save_tag.php on line 20
+[05-Oct-2013 10:51:57 America/Chicago] PHP Parse error:  syntax error, unexpected T_STRING in /home/doscerod/hashbook/save_tag.php on line 20
+[05-Oct-2013 10:51:57 America/Chicago] PHP Parse error:  syntax error, unexpected T_STRING in /home/doscerod/hashbook/save_tag.php on line 20
+[05-Oct-2013 10:51:57 America/Chicago] PHP Parse error:  syntax error, unexpected T_STRING in /home/doscerod/hashbook/save_tag.php on line 20
+[05-Oct-2013 10:51:57 America/Chicago] PHP Parse error:  syntax error, unexpected T_STRING in /home/doscerod/hashbook/save_tag.php on line 20
+[05-Oct-2013 10:51:57 America/Chicago] PHP Parse error:  syntax error, unexpected T_STRING in /home/doscerod/hashbook/save_tag.php on line 20
+[05-Oct-2013 10:51:57 America/Chicago] PHP Parse error:  syntax error, unexpected T_STRING in /home/doscerod/hashbook/save_tag.php on line 20
+[05-Oct-2013 10:51:58 America/Chicago] PHP Parse error:  syntax error, unexpected T_STRING in /home/doscerod/hashbook/save_tag.php on line 20
+[05-Oct-2013 10:51:58 America/Chicago] PHP Parse error:  syntax error, unexpected T_STRING in /home/doscerod/hashbook/save_tag.php on line 20
+[05-Oct-2013 10:51:58 America/Chicago] PHP Parse error:  syntax error, unexpected T_STRING in /home/doscerod/hashbook/save_tag.php on line 20
+[05-Oct-2013 10:51:58 America/Chicago] PHP Parse error:  syntax error, unexpected T_STRING in /home/doscerod/hashbook/save_tag.php on line 20
+[05-Oct-2013 10:53:56 America/Chicago] PHP Parse error:  syntax error, unexpected T_STRING in /home/doscerod/hashbook/save_tag.php on line 24
+[05-Oct-2013 10:53:59 America/Chicago] PHP Parse error:  syntax error, unexpected T_STRING in /home/doscerod/hashbook/save_tag.php on line 24
+[05-Oct-2013 10:54:01 America/Chicago] PHP Parse error:  syntax error, unexpected T_STRING in /home/doscerod/hashbook/save_tag.php on line 24
+[05-Oct-2013 10:54:01 America/Chicago] PHP Parse error:  syntax error, unexpected T_STRING in /home/doscerod/hashbook/save_tag.php on line 24
+[05-Oct-2013 10:54:02 America/Chicago] PHP Parse error:  syntax error, unexpected T_STRING in /home/doscerod/hashbook/save_tag.php on line 24
+[05-Oct-2013 10:54:02 America/Chicago] PHP Parse error:  syntax error, unexpected T_STRING in /home/doscerod/hashbook/save_tag.php on line 24
+[05-Oct-2013 10:54:02 America/Chicago] PHP Parse error:  syntax error, unexpected T_STRING in /home/doscerod/hashbook/save_tag.php on line 24
+[05-Oct-2013 10:54:03 America/Chicago] PHP Parse error:  syntax error, unexpected T_STRING in /home/doscerod/hashbook/save_tag.php on line 24
+[05-Oct-2013 10:54:03 America/Chicago] PHP Parse error:  syntax error, unexpected T_STRING in /home/doscerod/hashbook/save_tag.php on line 24
+[05-Oct-2013 10:54:03 America/Chicago] PHP Parse error:  syntax error, unexpected T_STRING in /home/doscerod/hashbook/save_tag.php on line 24
+[05-Oct-2013 10:54:58 America/Chicago] PHP Catchable fatal error:  Object of class mysqli_result could not be converted to string in /home/doscerod/hashbook/save_tag.php on line 21
+[05-Oct-2013 10:56:44 America/Chicago] PHP Catchable fatal error:  Object of class mysqli_result could not be converted to string in /home/doscerod/hashbook/save_tag.php on line 21
+[05-Oct-2013 12:03:05 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/doscerod/hashbook/get_my_tags.php on line 15
+[05-Oct-2013 12:04:28 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/doscerod/hashbook/get_my_tags.php on line 15
+[05-Oct-2013 12:04:31 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/doscerod/hashbook/get_my_tags.php on line 15
+[05-Oct-2013 12:05:29 America/Chicago] PHP Warning:  mysqli_num_rows() expects exactly 1 parameter, 2 given in /home/doscerod/hashbook/get_my_tags.php on line 15
+[05-Oct-2013 12:05:31 America/Chicago] PHP Warning:  mysqli_num_rows() expects exactly 1 parameter, 2 given in /home/doscerod/hashbook/get_my_tags.php on line 15
+[05-Oct-2013 12:05:32 America/Chicago] PHP Warning:  mysqli_num_rows() expects exactly 1 parameter, 2 given in /home/doscerod/hashbook/get_my_tags.php on line 15
+[05-Oct-2013 12:05:33 America/Chicago] PHP Warning:  mysqli_num_rows() expects exactly 1 parameter, 2 given in /home/doscerod/hashbook/get_my_tags.php on line 15
+[05-Oct-2013 12:05:33 America/Chicago] PHP Warning:  mysqli_num_rows() expects exactly 1 parameter, 2 given in /home/doscerod/hashbook/get_my_tags.php on line 15
+[05-Oct-2013 12:05:33 America/Chicago] PHP Warning:  mysqli_num_rows() expects exactly 1 parameter, 2 given in /home/doscerod/hashbook/get_my_tags.php on line 15
+[05-Oct-2013 12:05:34 America/Chicago] PHP Warning:  mysqli_num_rows() expects exactly 1 parameter, 2 given in /home/doscerod/hashbook/get_my_tags.php on line 15
+[05-Oct-2013 12:05:34 America/Chicago] PHP Warning:  mysqli_num_rows() expects exactly 1 parameter, 2 given in /home/doscerod/hashbook/get_my_tags.php on line 15
+[05-Oct-2013 12:05:35 America/Chicago] PHP Warning:  mysqli_num_rows() expects exactly 1 parameter, 2 given in /home/doscerod/hashbook/get_my_tags.php on line 15
+[05-Oct-2013 12:05:35 America/Chicago] PHP Warning:  mysqli_num_rows() expects exactly 1 parameter, 2 given in /home/doscerod/hashbook/get_my_tags.php on line 15
+[05-Oct-2013 12:05:35 America/Chicago] PHP Warning:  mysqli_num_rows() expects exactly 1 parameter, 2 given in /home/doscerod/hashbook/get_my_tags.php on line 15
+[05-Oct-2013 12:06:11 America/Chicago] PHP Warning:  mysqli_num_rows() expects exactly 1 parameter, 2 given in /home/doscerod/hashbook/get_my_tags.php on line 15
+[05-Oct-2013 12:07:23 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/doscerod/hashbook/get_my_tags.php on line 15
+[05-Oct-2013 12:07:27 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/doscerod/hashbook/get_my_tags.php on line 15
+[05-Oct-2013 12:08:37 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/doscerod/hashbook/get_my_tags.php on line 15
+[05-Oct-2013 12:08:39 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/doscerod/hashbook/get_my_tags.php on line 15
+[05-Oct-2013 12:09:21 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/doscerod/hashbook/get_my_tags.php on line 15
+[05-Oct-2013 12:09:23 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/doscerod/hashbook/get_my_tags.php on line 15
+[05-Oct-2013 12:09:27 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/doscerod/hashbook/get_my_tags.php on line 15
+[05-Oct-2013 12:09:28 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/doscerod/hashbook/get_my_tags.php on line 15
+[05-Oct-2013 12:09:29 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/doscerod/hashbook/get_my_tags.php on line 15
+[05-Oct-2013 12:09:53 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/doscerod/hashbook/get_my_tags.php on line 15
+[05-Oct-2013 12:10:03 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/doscerod/hashbook/get_my_tags.php on line 15
+[05-Oct-2013 12:10:05 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/doscerod/hashbook/get_my_tags.php on line 15
+[05-Oct-2013 12:10:05 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/doscerod/hashbook/get_my_tags.php on line 15
+[05-Oct-2013 12:10:06 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/doscerod/hashbook/get_my_tags.php on line 15
+[05-Oct-2013 12:10:06 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/doscerod/hashbook/get_my_tags.php on line 15
+[05-Oct-2013 12:10:06 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/doscerod/hashbook/get_my_tags.php on line 15
+[05-Oct-2013 12:10:06 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/doscerod/hashbook/get_my_tags.php on line 15
+[05-Oct-2013 12:10:06 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/doscerod/hashbook/get_my_tags.php on line 15
+[05-Oct-2013 12:10:06 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/doscerod/hashbook/get_my_tags.php on line 15
+[05-Oct-2013 12:10:06 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/doscerod/hashbook/get_my_tags.php on line 15
+[05-Oct-2013 12:10:07 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/doscerod/hashbook/get_my_tags.php on line 15
+[05-Oct-2013 12:10:07 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/doscerod/hashbook/get_my_tags.php on line 15
+[05-Oct-2013 12:10:07 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/doscerod/hashbook/get_my_tags.php on line 15
+[05-Oct-2013 12:10:07 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/doscerod/hashbook/get_my_tags.php on line 15
+[05-Oct-2013 12:10:08 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/doscerod/hashbook/get_my_tags.php on line 15
+[05-Oct-2013 12:10:08 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/doscerod/hashbook/get_my_tags.php on line 15
+[05-Oct-2013 12:10:08 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/doscerod/hashbook/get_my_tags.php on line 15
+[05-Oct-2013 12:10:08 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/doscerod/hashbook/get_my_tags.php on line 15
+[05-Oct-2013 12:10:08 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/doscerod/hashbook/get_my_tags.php on line 15
+[05-Oct-2013 12:10:08 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/doscerod/hashbook/get_my_tags.php on line 15
+[05-Oct-2013 12:10:09 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/doscerod/hashbook/get_my_tags.php on line 15
+[05-Oct-2013 12:10:09 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/doscerod/hashbook/get_my_tags.php on line 15
+[05-Oct-2013 12:10:09 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/doscerod/hashbook/get_my_tags.php on line 15
+[05-Oct-2013 12:10:09 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/doscerod/hashbook/get_my_tags.php on line 15
+[05-Oct-2013 12:10:09 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/doscerod/hashbook/get_my_tags.php on line 15
+[05-Oct-2013 12:10:09 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/doscerod/hashbook/get_my_tags.php on line 15
+[05-Oct-2013 12:10:09 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/doscerod/hashbook/get_my_tags.php on line 15
+[05-Oct-2013 12:10:10 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/doscerod/hashbook/get_my_tags.php on line 15
+[05-Oct-2013 12:10:10 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/doscerod/hashbook/get_my_tags.php on line 15
+[05-Oct-2013 12:10:44 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/doscerod/hashbook/get_my_tags.php on line 15
+[05-Oct-2013 12:10:46 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/doscerod/hashbook/get_my_tags.php on line 15
+[05-Oct-2013 12:15:11 America/Chicago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/doscerod/hashbook/get_my_tags.php on line 15
+[05-Oct-2013 12:15:13 America/Chicago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/doscerod/hashbook/get_my_tags.php on line 15
+[05-Oct-2013 12:15:14 America/Chicago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/doscerod/hashbook/get_my_tags.php on line 15
+[05-Oct-2013 12:15:14 America/Chicago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/doscerod/hashbook/get_my_tags.php on line 15
+[05-Oct-2013 12:15:14 America/Chicago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/doscerod/hashbook/get_my_tags.php on line 15
+[05-Oct-2013 12:15:14 America/Chicago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/doscerod/hashbook/get_my_tags.php on line 15
+[05-Oct-2013 12:15:15 America/Chicago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/doscerod/hashbook/get_my_tags.php on line 15
+[05-Oct-2013 12:15:15 America/Chicago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/doscerod/hashbook/get_my_tags.php on line 15
+[05-Oct-2013 12:15:15 America/Chicago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/doscerod/hashbook/get_my_tags.php on line 15
+[05-Oct-2013 12:15:15 America/Chicago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/doscerod/hashbook/get_my_tags.php on line 15
+[05-Oct-2013 12:15:15 America/Chicago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/doscerod/hashbook/get_my_tags.php on line 15
+[05-Oct-2013 12:15:16 America/Chicago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/doscerod/hashbook/get_my_tags.php on line 15
+[05-Oct-2013 12:15:16 America/Chicago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/doscerod/hashbook/get_my_tags.php on line 15
+[05-Oct-2013 12:15:16 America/Chicago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/doscerod/hashbook/get_my_tags.php on line 15
+[05-Oct-2013 12:16:32 America/Chicago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/doscerod/hashbook/get_my_tags.php on line 15
+[05-Oct-2013 12:16:52 America/Chicago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/doscerod/hashbook/get_my_tags.php on line 15
+[05-Oct-2013 12:17:12 America/Chicago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/doscerod/hashbook/get_my_tags.php on line 15
+[05-Oct-2013 12:17:14 America/Chicago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/doscerod/hashbook/get_my_tags.php on line 15
+[05-Oct-2013 12:17:15 America/Chicago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/doscerod/hashbook/get_my_tags.php on line 15
+[05-Oct-2013 12:17:35 America/Chicago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/doscerod/hashbook/get_my_tags.php on line 15
+[05-Oct-2013 12:17:41 America/Chicago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/doscerod/hashbook/get_my_tags.php on line 15
+[05-Oct-2013 12:21:04 America/Chicago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/doscerod/hashbook/get_my_tags.php on line 15
+[05-Oct-2013 12:21:04 America/Chicago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/doscerod/hashbook/get_my_tags.php on line 15
+[05-Oct-2013 12:21:29 America/Chicago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/doscerod/hashbook/get_my_tags.php on line 15
+[05-Oct-2013 12:21:29 America/Chicago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/doscerod/hashbook/get_my_tags.php on line 15
+[05-Oct-2013 12:22:04 America/Chicago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/doscerod/hashbook/get_my_tags.php on line 15
+[05-Oct-2013 12:22:04 America/Chicago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/doscerod/hashbook/get_my_tags.php on line 15
+[05-Oct-2013 12:22:33 America/Chicago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/doscerod/hashbook/get_my_tags.php on line 15
+[05-Oct-2013 12:22:35 America/Chicago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/doscerod/hashbook/get_my_tags.php on line 15
+[05-Oct-2013 12:22:36 America/Chicago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/doscerod/hashbook/get_my_tags.php on line 15
+[05-Oct-2013 12:22:37 America/Chicago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/doscerod/hashbook/get_my_tags.php on line 15
+[05-Oct-2013 12:24:42 America/Chicago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/doscerod/hashbook/get_my_tags.php on line 16
+[05-Oct-2013 12:24:46 America/Chicago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/doscerod/hashbook/get_my_tags.php on line 16
+[05-Oct-2013 12:24:50 America/Chicago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/doscerod/hashbook/get_my_tags.php on line 16
+[05-Oct-2013 12:25:01 America/Chicago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/doscerod/hashbook/get_my_tags.php on line 16
+[05-Oct-2013 12:28:05 America/Chicago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/doscerod/hashbook/get_my_tags.php on line 16
+[05-Oct-2013 12:28:05 America/Chicago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/doscerod/hashbook/get_my_tags.php on line 16
+[05-Oct-2013 12:29:07 America/Chicago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/doscerod/hashbook/get_my_tags.php on line 16
+[05-Oct-2013 12:29:34 America/Chicago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/doscerod/hashbook/get_my_tags.php on line 16
+[05-Oct-2013 12:30:53 America/Chicago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/doscerod/hashbook/get_my_tags.php on line 16
+[05-Oct-2013 12:31:22 America/Chicago] PHP Fatal error:  Call to undefined function msqli_fetch_assoc() in /home/doscerod/hashbook/get_my_tags.php on line 15
+[05-Oct-2013 12:33:31 America/Chicago] PHP Fatal error:  Call to undefined function msqli_num_rows() in /home/doscerod/hashbook/get_my_tags.php on line 15
+[05-Oct-2013 12:34:51 America/Chicago] PHP Fatal error:  Call to undefined function mysqli_result() in /home/doscerod/hashbook/get_my_tags.php on line 14
+[05-Oct-2013 12:35:56 America/Chicago] PHP Fatal error:  Call to undefined function msqli_num_rows() in /home/doscerod/hashbook/get_my_tags.php on line 15
+[05-Oct-2013 12:37:50 America/Chicago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/doscerod/hashbook/get_my_tags.php on line 16
+[05-Oct-2013 12:37:54 America/Chicago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/doscerod/hashbook/get_my_tags.php on line 16
+[05-Oct-2013 12:37:56 America/Chicago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/doscerod/hashbook/get_my_tags.php on line 16
+[05-Oct-2013 12:38:12 America/Chicago] PHP Fatal error:  Call to undefined function msqli_num_rows() in /home/doscerod/hashbook/get_my_tags.php on line 14
+[05-Oct-2013 12:38:14 America/Chicago] PHP Fatal error:  Call to undefined function msqli_num_rows() in /home/doscerod/hashbook/get_my_tags.php on line 14
+[05-Oct-2013 12:38:15 America/Chicago] PHP Fatal error:  Call to undefined function msqli_num_rows() in /home/doscerod/hashbook/get_my_tags.php on line 14
+[05-Oct-2013 12:38:20 America/Chicago] PHP Fatal error:  Call to undefined function msqli_num_rows() in /home/doscerod/hashbook/get_my_tags.php on line 14
+[05-Oct-2013 12:41:20 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/doscerod/hashbook/get_my_tags.php on line 14
+[05-Oct-2013 12:44:10 America/Chicago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/doscerod/hashbook/getTags.php on line 15
+[05-Oct-2013 12:46:54 America/Chicago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/doscerod/hashbook/getTags.php on line 15
+[05-Oct-2013 12:49:27 America/Chicago] PHP Catchable fatal error:  Object of class mysqli_result could not be converted to string in /home/doscerod/hashbook/get_my_tags.php on line 14
+[05-Oct-2013 12:50:16 America/Chicago] PHP Catchable fatal error:  Object of class mysqli_result could not be converted to string in /home/doscerod/hashbook/get_my_tags.php on line 14
+[05-Oct-2013 12:52:22 America/Chicago] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, object given in /home/doscerod/hashbook/get_my_tags.php on line 15
+[05-Oct-2013 12:54:42 America/Chicago] PHP Warning:  mysql_fetch_row() expects parameter 1 to be resource, object given in /home/doscerod/hashbook/get_my_tags.php on line 15
+[05-Oct-2013 12:54:43 America/Chicago] PHP Warning:  mysql_fetch_row() expects parameter 1 to be resource, object given in /home/doscerod/hashbook/get_my_tags.php on line 15
+[05-Oct-2013 12:54:43 America/Chicago] PHP Warning:  mysql_fetch_row() expects parameter 1 to be resource, object given in /home/doscerod/hashbook/get_my_tags.php on line 15
+[05-Oct-2013 12:54:43 America/Chicago] PHP Warning:  mysql_fetch_row() expects parameter 1 to be resource, object given in /home/doscerod/hashbook/get_my_tags.php on line 15
+[05-Oct-2013 12:54:43 America/Chicago] PHP Warning:  mysql_fetch_row() expects parameter 1 to be resource, object given in /home/doscerod/hashbook/get_my_tags.php on line 15
+[05-Oct-2013 12:54:44 America/Chicago] PHP Warning:  mysql_fetch_row() expects parameter 1 to be resource, object given in /home/doscerod/hashbook/get_my_tags.php on line 15
+[05-Oct-2013 12:57:19 America/Chicago] PHP Parse error:  syntax error, unexpected T_ENCAPSED_AND_WHITESPACE, expecting T_STRING or T_VARIABLE or T_NUM_STRING in /home/doscerod/hashbook/get_my_tags.php on line 16
+[05-Oct-2013 12:58:06 America/Chicago] PHP Parse error:  syntax error, unexpected T_ENCAPSED_AND_WHITESPACE, expecting T_STRING or T_VARIABLE or T_NUM_STRING in /home/doscerod/hashbook/get_my_tags.php on line 16
+[05-Oct-2013 12:58:10 America/Chicago] PHP Parse error:  syntax error, unexpected T_ENCAPSED_AND_WHITESPACE, expecting T_STRING or T_VARIABLE or T_NUM_STRING in /home/doscerod/hashbook/get_my_tags.php on line 16
+[05-Oct-2013 12:58:31 America/Chicago] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, object given in /home/doscerod/hashbook/get_my_tags.php on line 15
+[05-Oct-2013 12:59:20 America/Chicago] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, object given in /home/doscerod/hashbook/get_my_tags.php on line 15
+[05-Oct-2013 12:59:24 America/Chicago] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, object given in /home/doscerod/hashbook/get_my_tags.php on line 15
+[05-Oct-2013 13:00:39 America/Chicago] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, object given in /home/doscerod/hashbook/get_my_tags.php on line 15
+[05-Oct-2013 13:04:53 America/Chicago] PHP Fatal error:  Call to undefined function mysqli_fetch_all() in /home/doscerod/hashbook/get_my_tags.php on line 15
+[05-Oct-2013 13:06:45 America/Chicago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/doscerod/hashbook/getTags.php on line 15
+[05-Oct-2013 13:06:46 America/Chicago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/doscerod/hashbook/getTags.php on line 15
+[05-Oct-2013 13:06:47 America/Chicago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/doscerod/hashbook/getTags.php on line 15
+[05-Oct-2013 13:06:47 America/Chicago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/doscerod/hashbook/getTags.php on line 15
+[05-Oct-2013 13:06:48 America/Chicago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/doscerod/hashbook/getTags.php on line 15
+[05-Oct-2013 13:06:48 America/Chicago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/doscerod/hashbook/getTags.php on line 15
+[05-Oct-2013 13:06:48 America/Chicago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/doscerod/hashbook/getTags.php on line 15
+[05-Oct-2013 13:06:48 America/Chicago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/doscerod/hashbook/getTags.php on line 15
+[05-Oct-2013 13:06:48 America/Chicago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/doscerod/hashbook/getTags.php on line 15
+[05-Oct-2013 13:18:13 America/Chicago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/doscerod/hashbook/getTags.php on line 15
+[05-Oct-2013 13:19:28 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/doscerod/hashbook/save_tag.php on line 21
+[05-Oct-2013 13:19:28 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/doscerod/hashbook/save_tag.php on line 21
+[05-Oct-2013 13:19:34 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/doscerod/hashbook/save_tag.php on line 21
+[05-Oct-2013 13:19:34 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/doscerod/hashbook/save_tag.php on line 21
+[05-Oct-2013 13:20:11 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/doscerod/hashbook/save_tag.php on line 21
+[05-Oct-2013 13:20:12 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/doscerod/hashbook/save_tag.php on line 21
+[05-Oct-2013 13:20:48 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/doscerod/hashbook/save_tag.php on line 21
+[05-Oct-2013 13:20:49 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/doscerod/hashbook/save_tag.php on line 21
+[05-Oct-2013 13:21:49 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/doscerod/hashbook/save_tag.php on line 21
+[05-Oct-2013 13:21:49 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/doscerod/hashbook/save_tag.php on line 21
+[05-Oct-2013 13:21:50 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/doscerod/hashbook/save_tag.php on line 21
+[05-Oct-2013 13:21:50 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/doscerod/hashbook/save_tag.php on line 21
+[05-Oct-2013 13:22:26 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/doscerod/hashbook/save_tag.php on line 21
+[05-Oct-2013 13:22:27 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/doscerod/hashbook/save_tag.php on line 21
+[05-Oct-2013 13:25:18 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/doscerod/hashbook/save_tag.php on line 21
+[05-Oct-2013 13:25:18 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/doscerod/hashbook/save_tag.php on line 21
+[05-Oct-2013 13:26:27 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/doscerod/hashbook/save_tag.php on line 21
+[05-Oct-2013 13:34:37 America/Chicago] PHP Catchable fatal error:  Object of class mysqli_result could not be converted to string in /home/doscerod/hashbook/save_tag.php on line 21
+[05-Oct-2013 13:35:29 America/Chicago] PHP Catchable fatal error:  Object of class mysqli_result could not be converted to string in /home/doscerod/hashbook/save_tag.php on line 21
+[05-Oct-2013 13:35:32 America/Chicago] PHP Catchable fatal error:  Object of class mysqli_result could not be converted to string in /home/doscerod/hashbook/save_tag.php on line 21
+[05-Oct-2013 13:37:19 America/Chicago] PHP Catchable fatal error:  Object of class mysqli_result could not be converted to string in /home/doscerod/hashbook/save_tag.php on line 21
+[05-Oct-2013 13:58:20 America/Chicago] PHP Parse error:  syntax error, unexpected T_ENCAPSED_AND_WHITESPACE, expecting T_STRING or T_VARIABLE or T_NUM_STRING in /home/doscerod/hashbook/save_tag.php on line 22
+[05-Oct-2013 13:58:20 America/Chicago] PHP Parse error:  syntax error, unexpected T_ENCAPSED_AND_WHITESPACE, expecting T_STRING or T_VARIABLE or T_NUM_STRING in /home/doscerod/hashbook/save_tag.php on line 22
+[05-Oct-2013 13:58:34 America/Chicago] PHP Parse error:  syntax error, unexpected T_ENCAPSED_AND_WHITESPACE, expecting T_STRING or T_VARIABLE or T_NUM_STRING in /home/doscerod/hashbook/save_tag.php on line 22
+[05-Oct-2013 13:58:34 America/Chicago] PHP Parse error:  syntax error, unexpected T_ENCAPSED_AND_WHITESPACE, expecting T_STRING or T_VARIABLE or T_NUM_STRING in /home/doscerod/hashbook/save_tag.php on line 22
+[05-Oct-2013 13:58:57 America/Chicago] PHP Parse error:  syntax error, unexpected T_ENCAPSED_AND_WHITESPACE, expecting T_STRING or T_VARIABLE or T_NUM_STRING in /home/doscerod/hashbook/save_tag.php on line 22
+[05-Oct-2013 14:31:44 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/doscerod/hashbook/save_user.php on line 12
+[05-Oct-2013 14:31:44 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/doscerod/hashbook/save_user.php:12) in /home/doscerod/hashbook/save_user.php on line 20
+[05-Oct-2013 14:31:52 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/doscerod/hashbook/get_my_tags.php on line 13
+[05-Oct-2013 14:31:52 America/Chicago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/doscerod/hashbook/get_my_tags.php on line 15
+[05-Oct-2013 14:31:53 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/doscerod/hashbook/get_my_tags.php on line 13
+[05-Oct-2013 14:31:53 America/Chicago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/doscerod/hashbook/get_my_tags.php on line 15
+[05-Oct-2013 14:31:53 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/doscerod/hashbook/save_user.php on line 12
+[05-Oct-2013 14:31:53 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/doscerod/hashbook/save_user.php:12) in /home/doscerod/hashbook/save_user.php on line 20
+[05-Oct-2013 14:32:01 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/doscerod/hashbook/get_my_tags.php on line 13
+[05-Oct-2013 14:32:01 America/Chicago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/doscerod/hashbook/get_my_tags.php on line 15
+[05-Oct-2013 14:32:01 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/doscerod/hashbook/get_my_tags.php on line 13
+[05-Oct-2013 14:32:01 America/Chicago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/doscerod/hashbook/get_my_tags.php on line 15
+[05-Oct-2013 14:32:02 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/doscerod/hashbook/save_user.php on line 12
+[05-Oct-2013 14:32:02 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/doscerod/hashbook/save_user.php:12) in /home/doscerod/hashbook/save_user.php on line 20
+[05-Oct-2013 14:32:42 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/doscerod/hashbook/get_my_tags.php on line 13
+[05-Oct-2013 14:32:42 America/Chicago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/doscerod/hashbook/get_my_tags.php on line 15
+[05-Oct-2013 14:32:42 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/doscerod/hashbook/get_my_tags.php on line 13
+[05-Oct-2013 14:32:42 America/Chicago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/doscerod/hashbook/get_my_tags.php on line 15
+[05-Oct-2013 14:32:43 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/doscerod/hashbook/save_user.php on line 12
+[05-Oct-2013 14:32:43 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/doscerod/hashbook/save_user.php:12) in /home/doscerod/hashbook/save_user.php on line 20
+[05-Oct-2013 14:32:45 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/doscerod/hashbook/get_my_tags.php on line 13
+[05-Oct-2013 14:32:45 America/Chicago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/doscerod/hashbook/get_my_tags.php on line 15
+[05-Oct-2013 14:32:45 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/doscerod/hashbook/get_my_tags.php on line 13
+[05-Oct-2013 14:32:45 America/Chicago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/doscerod/hashbook/get_my_tags.php on line 15
+[05-Oct-2013 14:32:47 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/doscerod/hashbook/save_user.php on line 12
+[05-Oct-2013 14:32:47 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/doscerod/hashbook/save_user.php:12) in /home/doscerod/hashbook/save_user.php on line 20
+[05-Oct-2013 14:32:57 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/doscerod/hashbook/get_my_tags.php on line 13
+[05-Oct-2013 14:32:57 America/Chicago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/doscerod/hashbook/get_my_tags.php on line 15
+[05-Oct-2013 14:32:57 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/doscerod/hashbook/get_my_tags.php on line 13
+[05-Oct-2013 14:32:57 America/Chicago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/doscerod/hashbook/get_my_tags.php on line 15
+[05-Oct-2013 14:32:59 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/doscerod/hashbook/save_user.php on line 12
+[05-Oct-2013 14:32:59 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/doscerod/hashbook/save_user.php:12) in /home/doscerod/hashbook/save_user.php on line 20
+[05-Oct-2013 14:33:02 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/doscerod/hashbook/save_tag.php on line 14
+[05-Oct-2013 14:33:02 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/doscerod/hashbook/save_tag.php:14) in /home/doscerod/hashbook/save_tag.php on line 25
+[05-Oct-2013 14:33:02 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/doscerod/hashbook/save_tag.php on line 14
+[05-Oct-2013 14:33:02 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/doscerod/hashbook/save_tag.php:14) in /home/doscerod/hashbook/save_tag.php on line 25
+[05-Oct-2013 14:33:28 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/doscerod/hashbook/save_tag.php on line 14
+[05-Oct-2013 14:33:28 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/doscerod/hashbook/save_tag.php:14) in /home/doscerod/hashbook/save_tag.php on line 25
+[05-Oct-2013 14:33:28 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/doscerod/hashbook/save_tag.php on line 14
+[05-Oct-2013 14:33:28 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/doscerod/hashbook/save_tag.php:14) in /home/doscerod/hashbook/save_tag.php on line 25
